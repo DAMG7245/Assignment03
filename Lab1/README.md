@@ -61,16 +61,16 @@ Results of Lab1
 <img src="Results/10-Orchestrate-Jobs-Part-7.png" width="800px">
 
 **Step 11.1: Begin setting up incremental processing for data efficiency.**
-<img src="Results/11-Process-Incrementally-Part-1.png" width="800px">
+<img src="Results/11-Process-Incrementally-Part1.png" width="800px">
 
 **Step 11.2: Configure change detection for incremental updates.**
-<img src="Results/11-Process-Incrementally-Part-2.png" width="800px">
+<img src="Results/11-Process-Incrementally-Part2.png" width="800px">
 
 **Step 11.3: Implement merge operations for incremental data processing.**
-<img src="Results/11-Process-Incrementally-Part-3.png" width="800px">
+<img src="Results/11-Process-Incrementally-Part3.png" width="800px">
 
 **Step 11.4: Verify the effectiveness of the incremental processing approach.**
-<img src="Results/11-Process-Incrementally-Part-4.png" width="800px">
+<img src="Results/11-Process-Incrementally-Part4.png.png" width="800px">
 
 **Step 12.1: Set up continuous integration and deployment infrastructure.**
 <img src="Results/12-Deploy-Via-CI-CD_Part-1.png" width="800px">
