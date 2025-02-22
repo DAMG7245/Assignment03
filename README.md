@@ -103,9 +103,9 @@ snowflake-labs-ubm/
 ---
 ## Team Members  
 
-- **Sai Priya Veerabomma** - 33.3% (Lab3)  
-- **Sai Srunith Silvery** - 33.3% (Lab2)  
-- **Vishal Prasanna** - 33.3% (Lab1)  
+- **Sai Priya Veerabomma** - 33.3% 
+- **Sai Srunith Silvery** - 33.3%  
+- **Vishal Prasanna** - 33.3%   
 
 ---
 
